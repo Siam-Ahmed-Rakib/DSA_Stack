@@ -1,1 +1,5 @@
-# DSA_Stack
+In this repository, I have focused on solving assignments and problems related to the Stack data structure. The primary source of these assignments is the document titled 'Offline 2 Stack Jan 2023.docx.pdf', which contains the assignment questions. This assignment is divided into two tasks. <br>
+In the files 'Stack.cpp', I have implemented the Stack ADT using an array , as part of Task 1. The file 'Task1.cpp' contains the  main function of the Task 1.<br>
+The file 'Task2.cpp'  contain my solutions for Task 2 .This task primarily involve problems related to the use of the Stack Data Structure in calculating mathematical expression.<br>
+The documents 'CSE106_Jan23_Stack_Online_A.pdf', 'CSE106_Jan23_Stack_Online_B.pdf', and 'CSE106_Jan23_Stack_Online_C.pdf' contain three simple problems that require the use or modification of the Stack implementation. I have solved these problems in the files 'Online_A.cpp', 'Online_B.cpp', and 'Online_C.cpp' respectively.<br>
+I have made every effort to solve these problems accurately, but there may be some errors. I kindly ask for your understanding in this regard. Please feel free to provide any feedback or suggestions to improve the language and grammar used in these files. Your input is greatly appreciated. Thank you.<br>
